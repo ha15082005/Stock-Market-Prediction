@@ -2,8 +2,6 @@
 
 Welcome to the Stock Price Predictor app! 🎉 This web application allows you to predict stock prices using historical data, powered by various machine learning models and technical indicators. Whether you’re a seasoned investor or just curious about the stock market, this app provides insights that can help you make informed decisions.
 
-![Stock Price Predictor Screenshot](Screenshot 2024-11-01 at 21.47.52.png)
-
 ## What Can You Do?
 
 - **Explore Technical Indicators**: Dive into stock price movements with popular indicators like MACD, RSI, SMA, and EMA. Understand market trends better!
